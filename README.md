@@ -16,4 +16,4 @@ public AnimationCurve FrictionCurve;
                 curve.stiffness = stiffnes;
             }
 ```
-[![Mail Badge](https://img.shields.io/badge/mertkalkanci05@hotmail.com-6666ff?style=for-the-badge&logo=microsoft&logoColor=white&link=mailto:mertkalkanci05@hotmail.com)](mailto:mertkalkanci05@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/mertkalkanci79@gmail.com-ff5050?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mertkalkanci79@gmail.com)](mailto:mertkalkanci79@gmail.com)
