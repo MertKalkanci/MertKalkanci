@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-'''py
+''' 
 def tryToCode():
     try:
         with computer("think", "r") as work:
