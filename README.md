@@ -3,8 +3,8 @@
 ```py
 def tryToCode():
     try:
-        with computer("think", "r") as work:
-            return work.read()
+        with computer("live", "wr") as l:
+            return l.read()
     except Exception as e:
         print("Error : " + str(e))
         input("waiting for input to quit program")
