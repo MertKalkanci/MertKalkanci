@@ -1,4 +1,4 @@
-### My whole life be like:
+### My whole life is something like 4 wheels and a code editor
 
 ```cs
 public AnimationCurve FrictionCurve;
