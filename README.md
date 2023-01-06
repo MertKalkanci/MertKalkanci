@@ -1,13 +1,18 @@
 ### My whole life be like:
 
-```py
-def TryToLive():
-    try:
-        with computer(life.half, "wr") as l:
-            l.update()
-            return l.read()
-    except Exception as e:
-        print("Error : " + str(e))
-        input("waiting for input to quit program")
-        exit()
+```cs
+public AnimationCurve FrictionCurve;
+            [Space]
+            public WheelFrictionCurve curve;
+            public float extremiumSlip, asymptoteSlip, stiffnes;
+            
+            public void ConfigureTires()
+            {
+                curve = new WheelFrictionCurve();
+                curve.asymptoteSlip = asymptoteSlip;
+                curve.asymptoteValue = FrictionCurve.Evaluate(asymptoteSlip);
+                curve.extremumSlip = extremiumSlip;
+                curve.extremumValue = FrictionCurve.Evaluate(extremiumSlip);
+                curve.stiffness = stiffnes;
+            }
 ```
