@@ -1,4 +1,4 @@
-### Hi there 👋
+### My whole life be like:
 
 ```py
 def tryToCode():
