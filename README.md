@@ -1,4 +1,4 @@
-### My whole life is something like 4 wheels and a code editor
+### My whole life is something like 4 wheels and a computer
 
 ```cs
 public AnimationCurve FrictionCurve;
