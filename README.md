@@ -34,9 +34,7 @@
 
 # **Education**
 
-## **Çigli Science Highschool**
-
-*2023 Turkey,İzmir*
+- **Çigli Science Highschool**
 
 # **External Links**
 
