@@ -17,30 +17,13 @@
 
 # **Skills**
 
-## **Unity**
-
-I’m working with Unity for 4 years, also I made most of my projects with it.
-
-## **Python**
-
-Mostly I use python for my AI projects. I used it in my AI-Driven Surveys research and AI RPG game. Also I have a sertificate from Sololearn.
-
-## **General AI Knowledge**
-
-I’ve made lots of research about it for my projects, I know the basic concepts of it. Also, I have some knowledge about TensorFlow.
-
-## **Technical Writing**
-
-I wrote a lot for my research. I am good at explaining subjects clearly.
-
-## **Project Management**
-
-Currently managing mproject Race Season and in the past I’ve managed my research team and game developement teams that I worked before.
-
-## **3D Design**
-
-I have small knowledge of solidworks and Blender. I’ve learned them for Teknofest Contest for technical drawings of the drone and to make simple props  and vehicles for my games.![ref1]
-
+- **Unity**
+- **Python**
+- **General AI Knowledge**
+- **Technical Writing**
+- **Project Management**
+- **3D Design**
+- 
 # **Articles and Documentations**
 
 - [AI Driven Survey Simulations](https://docs.google.com/document/d/1FTmDdBBvgK_MQgY40Fv1EBHKhkxJWL2gvqjYuY3NvkQ/edit?usp=drivesdk)
@@ -65,13 +48,3 @@ I have small knowledge of solidworks and Blender. I’ve learned them for Teknof
 - [Python Sertificate](https://api2.sololearn.com/v2/certificates/CT-KXOUWLJA/image/png)
 - [C Sertificate (Beginner level)](https://api2.sololearn.com/v2/certificates/CT-RZEMJITS/image/png)
 - [Race Season Game Resources](http://archive.raceseason.xyz/)
-
-# **Contact**
-
-[📧 mertkalkanci05@hotmail.com](mailto:mertkalkanci05@hotmail.com)
-
-🐦[ twitter.com/KalkancMert](http://twitter.com/KalkancMert)
-
-[🔗 linkedin.com/in/mert-kalkancı](http://linkedin.com/in/mert-kalkanc%C4%B1)
-
-[👾 github.com/MertKalkanci](http://github.com/MertKalkanci)
