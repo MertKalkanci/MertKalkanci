@@ -2,43 +2,7 @@
 
 👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about Game developement, AR and AI.
 
-# [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
-
-## **CFL Computer Science Club Head of Game Developement**
-
-We as ÇFL Computer Science Club made some workshops about game developement on discord and published it on youtube.
-
-## **Sandbox City Online**
-
-A simple sandbox multiplayer game you can drive cars, planes with your friends.
-
-## **Balloons Revenge**
-
-A game you save the pink baloon by killing red ballons and the evil black baloon. Made for Boğaziçi game Jam 2022.
-
-## **2D Platformer Shooter Prototype**
-
-A simple 2D Online Shooter that has several guns and game modes like boss battle, team death match, free for all death match.
-
-## **Race Season**
-
-A racing based car game that you can play online with your friends. you can customize your cars, download mods, explore maps, race with your friends and play minigames.
-
-## **AI Driven Survey Simulations Research**
-
-A research that abou making virtual survey simulations with GPT showed it may can be a useful tool to predict surveys.
-
-## **AI RPG Game**
-
-A propmt based RPG game that images and story made by AI. Y story start and images artstyle.
-
-## **M Easy GPS**
-
-An Unity asset that helps you to use GPS in your AR Projects. This library helps you to get fine location and place objects in world relative to the user's GPS location.
-
-## **Akasu - Research Developement Specialist**
-
-I worked on Akasu project, an automated irrigation system. I worked on getting investement and finalising AI subsystem and managing website. We joined Teknofest with this project.
+# [**Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
 
 # **Skills**
 
@@ -52,7 +16,7 @@ Mostly I use python for my AI projects. I used it in my AI-Driven Surveys resear
 
 ## **General AI Knowledge**
 
-I’ve made lots of research about it for my projects, I know the basic concepts of it. Also, I have small knowledge of TensorFlow.
+I’ve made lots of research about it for my projects, I know the basic concepts of it. Also, I have some knowledge about TensorFlow.
 
 ## **Technical Writing**
 
@@ -65,16 +29,6 @@ Currently managing mproject Race Season and in the past I’ve managed my resear
 ## **3D Design**
 
 I have small knowledge of solidworks and Blender. I’ve learned them for Teknofest Contest for technical drawings of the drone and to make simple props  and vehicles for my games.![ref1]
-
-# **Languages**
-
-## **Turkish** 
-
-Native speaker
-
-## **English**
-
-Proficient speaker
 
 # **Articles and Documentations**
 
@@ -107,6 +61,6 @@ Proficient speaker
 
 🐦[ twitter.com/KalkancMert](http://twitter.com/KalkancMert)
 
-[🔗 linkedin.com/in/mert-kalkanc%C4%B1 ](http://linkedin.com/in/mert-kalkanc%C4%B1)
+[🔗 linkedin.com/in/mert-kalkancı](http://linkedin.com/in/mert-kalkanc%C4%B1)
 
 [👾 github.com/MertKalkanci](http://github.com/MertKalkanci)
