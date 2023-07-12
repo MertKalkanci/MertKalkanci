@@ -2,7 +2,18 @@
 
 👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about Game developement, AR and AI.
 
-# [**Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
+# [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
+
+- **CFL Computer Science Club Head of Game Developement**
+- **Sandbox City Online**
+- **Balloons Revenge**
+- **2D Platformer Shooter Prototype**
+- **Race Season**
+- **AI Driven Survey Simulations Research**
+- **AI RPG Game**
+- **M Easy GPS**
+- **Akasu - Research Developement Specialist**
+
 
 # **Skills**
 
