@@ -23,7 +23,7 @@
 - **Technical Writing**
 - **Project Management**
 - **3D Design**
-- 
+
 # **Articles and Documentations**
 
 - [AI Driven Survey Simulations](https://docs.google.com/document/d/1FTmDdBBvgK_MQgY40Fv1EBHKhkxJWL2gvqjYuY3NvkQ/edit?usp=drivesdk)
