@@ -38,7 +38,6 @@
 - **Çigli Science Highschool**
 
 ## Sertificates
-# 
 
 - [Analyze Data with R Skill Path](https://www.codecademy.com/profiles/system4382609358/certificates/5ea997e832f098001378ca08)
 - [Deep Learning Fundementals Sertificate](https://courses.cognitiveclass.ai/certificates/b6eb01a68b1e45ce87283ebf2bfd4305)
