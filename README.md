@@ -38,8 +38,11 @@
 - **Çigli Science Highschool**
 
 ## Sertificates
+# 
 
-- [Machine Learning Fundamentals Sertificate](https://courses.cognitiveclass.ai/certificates/b6eb01a68b1e45ce87283ebf2bfd4305)
+- [Analyze Data with R Skill Path](https://www.codecademy.com/profiles/system4382609358/certificates/5ea997e832f098001378ca08)
+- [Deep Learning Fundementals Sertificate](https://courses.cognitiveclass.ai/certificates/b6eb01a68b1e45ce87283ebf2bfd4305)
+- [Projects and Case Studies on Machine Learning Sertificate](https://www.educba.com/certificate/?c=TOB5CJKNG)
 - [Python Core Sertificate](https://api2.sololearn.com/v2/certificates/CT-KXOUWLJA/image/png)
 - [C Sertificate (Beginner level)](https://api2.sololearn.com/v2/certificates/CT-RZEMJITS/image/png)
 - [Academic Writing Sertificate](https://drive.google.com/file/d/1yCqzNNlcze2-nH8Lj_-btmfIczH-mzkp/view?usp=drivesdk)
