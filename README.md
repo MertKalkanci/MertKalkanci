@@ -1,6 +1,6 @@
 # **MERT KALKANCI**
 
-👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about Game developement, AR and AI.
+👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about ML, Game developement and AR .
 
 ## [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
 
