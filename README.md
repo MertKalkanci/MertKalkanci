@@ -13,6 +13,7 @@
 - **AI RPG Game**
 - **M Easy GPS**
 - **Akasu - Research Developement Specialist**
+- **Plant Disease Detection From Camera**
 
 
 ## **Skills**
