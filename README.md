@@ -19,6 +19,9 @@
 - **Python**
 - **Machine Learning**
 - **R Programming Language**
+- **C**
+- **PCB Design**
+- **C#**
 - **Technical Writing**
 - **Project Management**
 - **3D Design**
@@ -51,3 +54,4 @@
 - [MEB Contest regulation document ](https://docs.google.com/document/d/15I6VlENZa79XjIXvOkwVxk30ePsvgz_-/edit?usp=drivesdk&ouid=112074028541645414013&rtpof=true&sd=true)
 - [Teknofest Drone Contest Document ](https://docs.google.com/document/d/1qg9hs9HApZ9YQcaVEEJPpPIqBT7H44hgfqi-JrRAlHQ/edit?usp=drivesdk)
 - [Race Season Game Resources](http://archive.raceseason.xyz/)
+- [AKASU Website](https://www.akasulama.com/)
