@@ -5,9 +5,6 @@
 ## [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
 
 - **CFL Computer Science Club - Head of Game Developement**
-- **Sandbox City Online**
-- **Balloons Revenge**
-- **2D Platformer Shooter Prototype**
 - **Race Season**
 - **AI Driven Survey Simulations Research**
 - **AI RPG Game**
