@@ -37,6 +37,7 @@
 ## **Education**
 
 - **Çigli Science Highschool**
+- **METU NCC Electrical-Elecftronics Engineer**
 
 ## Sertificates
 
