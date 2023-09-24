@@ -4,12 +4,12 @@
 <table>
   <td>
     
-![Stats](https://github-readme-stats.vercel.app/api?username=MertKalkanci\&include_all_commits=true\&theme=dark) 
+![Stats](https://github-readme-stats.vercel.app/api?username=MertKalkanci&hide=prs,issues\&include_all_commits=true\&theme=dark) 
 
   </td>
   <td>
   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKalkanci&langs_count=8&exclude_repo=Plant-Leaf-Selection-On-Image\&layout=compact\&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKalkanci&langs_count=6&exclude_repo=Plant-Leaf-Selection-On-Image,BallRoyale\&layout=compact\&theme=dark&hide=javascript,shaderlab,hlsl)
 
   </td>
 </table>
