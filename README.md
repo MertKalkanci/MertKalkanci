@@ -1,6 +1,18 @@
 # **MERT KALKANCI**
 
-👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about Deep Learning, Game developement and Microchips .
+👋 I'm Mert, I have  **4 years of experience with Unity**. My focus area for the past few years has been about deep learning, game developement and developement boards.
+<table>
+  <td>
+    
+![Stats](https://github-readme-stats.vercel.app/api?username=MertKalkanci\&include_all_commits=true\&theme=dark) 
+
+  </td>
+  <td>
+  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKalkanci&langs_count=8&exclude_repo=Plant-Leaf-Selection-On-Image\&layout=compact\&theme=dark)
+
+  </td>
+</table>
 
 ## [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
 
