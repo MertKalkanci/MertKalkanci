@@ -50,7 +50,7 @@
 ## **Education**
 
 - **Çigli Science Highschool**
-- **METU NCC Electrical-Electronics Engineering**
+- **METU NCC Electrical-Electronics Engineering** - Still
 
 ## Sertificates
 
