@@ -28,12 +28,12 @@
 
 ## **Skills**
 
+- **C**
+- **PCB Design**
 - **Unity**
 - **Python**
 - **Machine Learning**
 - **R Programming Language**
-- **C**
-- **PCB Design**
 - **C#**
 - **Technical Writing**
 - **Project Management**
