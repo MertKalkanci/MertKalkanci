@@ -43,8 +43,6 @@
 
 - [AI Driven Survey Simulations](https://docs.google.com/document/d/1FTmDdBBvgK_MQgY40Fv1EBHKhkxJWL2gvqjYuY3NvkQ/edit?usp=drivesdk)
 - Solar Powered Charging Ship (as mentor)
-- [Meb Contest Drone Cup Technical Regulation Document](https://docs.google.com/document/d/15I6VlENZa79XjIXvOkwVxk30ePsvgz_-/edit?usp=drivesdk&ouid=112074028541645414013&rtpof=true&sd=true)
-- [Teknofest Drone Contest Document](https://docs.google.com/document/d/1qg9hs9HApZ9YQcaVEEJPpPIqBT7H44hgfqi-JrRAlHQ/edit?usp=drivesdk)
 - [M Easy GPS Documentation](https://docs.google.com/document/d/18pJIIJ79jd8tpjXdMVP80ITcaW1g6mN9heOl3Q9wn04/edit?usp=drivesdk)
 
 ## **Education**
