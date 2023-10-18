@@ -22,9 +22,8 @@
 - **AI RPG Game**
 - **M Easy GPS**
 - **Akasu - Research Developement Specialist**
-- **Plant Disease Detection From Camera**
 - **Raspberry Pi Pico Sim800L GSM Library**
-
+- **Plant Disease Detection From Camera Research**
 
 ## **Skills**
 
