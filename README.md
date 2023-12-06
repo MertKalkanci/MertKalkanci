@@ -14,7 +14,7 @@
   </td>
 </table>
 
-## [**Experience & Projects**](https://www.youtube.com/playlist?list=PLVwfoXw967RMdR2YwTD68kd8p7GShOcJl)
+## **Experience & Projects**
 
 - **CFL Computer Science Club - Head of Game Developement**
 - **Race Season**
