@@ -1,6 +1,6 @@
 # **MERT KALKANCI**
 
-👋 I'm Mert, my focus area for the past few years has been about deep learning, game developement and developement boards.
+👋 I'm Mert, my focus area for the past few years has been about deep learning and developement boards.
 <table>
   <td>
     
@@ -24,18 +24,19 @@
 - **Akasu - Research Developement Specialist**
 - **Raspberry Pi Pico Sim800L GSM Library**
 - **Plant Disease Detection From Camera Research**
+- **Raspberry Pi Pico Lora SX127X Module Driver Library**
 
 ## **Skills**
 
 - **C**
 - **PCB Design**
-- **Unity**
+- **Project Management**
 - **Python**
-- **Machine Learning**
-- **R Programming Language**
+- **Deep Learning** (Mostly Computer Vision)
 - **C#**
 - **Technical Writing**
-- **Project Management**
+- **Unity**
+- **R Programming Language**
 - **3D Design**
 
 ## **Articles and Documentations**
