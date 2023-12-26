@@ -28,7 +28,7 @@
 
 ## **Skills**
 
-- **C**
+- **C Programming Language**
 - **PCB Design**
 - **Project Management**
 - **Python**
