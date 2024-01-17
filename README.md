@@ -47,7 +47,7 @@
 
 ## **Education**
 
-- **Çigli Science Highschool**
+- **İzmir Çigli Science Highschool**
 - **METU NCC Electrical-Electronics Engineering** - Still
 
 ## Sertificates
